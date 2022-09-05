@@ -5,14 +5,10 @@
 
 ### Please Contact Me:
 
-**Phone:** +90(535) 373-41-49
-
-**E-mail:** puzik83@gmail.com
-
-**Telegram:** [@Tpuzik](https://t.me/tpuzik)
-
-**Discord:** puzik83#3229
-
+**Phone:** +90(535) 373-41-49  
+**E-mail:** puzik83@gmail.com  
+**Telegram:** [@Tpuzik](https://t.me/tpuzik)  
+**Discord:** puzik83#3229  
 **Git:** [puzik83](https://github.com/puzik83)
 ________________________
 
