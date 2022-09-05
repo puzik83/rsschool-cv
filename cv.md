@@ -60,6 +60,23 @@ _________________________
     </div>
 ```
 
+### Education
+
+- **Volgograd State Pedagogical University**, Bachelor's Degree in Teaching English and German as Foreign Languages, 2001-2006
+- **Learn Epam**, IT Fundamentals, 2022
+- **RSS School**, UpSkill Me Front-End, 2022- in progress
+- **Maxima School**, Front-End and React Basics, 2022 - in progress
+
+
+### Experience
+
+Not yet obtained but going to complete several projects this year. Afterwards ready to share the results.
+
+### Languages
+
+- English - B2
+- German - A2
+- Russian - C2(native)
 
 
 
