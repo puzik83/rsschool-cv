@@ -70,7 +70,7 @@ Not yet obtained but going to complete several projects this year. Afterwards re
 
 ### Languages
 
-- English - B2
+- English - C1
 - German - A2
 - Russian - C2(native)
 
